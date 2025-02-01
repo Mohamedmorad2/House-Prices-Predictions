@@ -1,7 +1,7 @@
 # Housing Price Prediction
 You can find the WebApp at the following link to try the model:
 
-[ُweb App](https://house-prices-predictions.streamlit.app/)
+[Live Demo](https://house-prices-predictions.streamlit.app/)
 
 ![Image Description](media/Background.jpg)
 This project aims to predict house prices based on various features such as area, number of bedrooms, bathrooms, access to main road, and more. The model uses linear regression and standard scaling for input data.
